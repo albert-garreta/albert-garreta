@@ -6,8 +6,8 @@ got interested in different areas such as machine learning (particularly reinfor
 ### Relevant links:
 
 - [Repositories]()
-- [Papers]()
-- [Kaggle profile]()
+- [Papers](https://github.com/albert-garreta/albert-garreta.github.io/tree/main/papers)
+- [Kaggle profile (machine learning competitions)](https://www.kaggle.com/agarreta)
 - [CV]()
 
 
@@ -20,4 +20,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we'll help you sort it out.
