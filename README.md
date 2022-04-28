@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please see my website for more information about myself: 
+Please see my website if you'd like to know more about me 
 https://sites.google.com/view/agarreta/home
 
 <!--
