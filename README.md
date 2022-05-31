@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Please see my website if you'd like to know more about me 
-https://sites.google.com/view/agarreta/home
-
 <!--
 **albert-garreta/albert-garreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
